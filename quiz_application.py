@@ -1,3 +1,6 @@
+# Tanu Chouhan 2024
+# Text based adventure game
+
 from random import shuffle
 
 questions:list[dict[str,str]] = [
