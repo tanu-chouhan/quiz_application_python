@@ -1,5 +1,5 @@
 # Tanu Chouhan 2024
-# Text based adventure game
+# Quiz Application
 
 from random import shuffle
 
